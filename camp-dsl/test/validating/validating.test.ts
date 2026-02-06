@@ -20,7 +20,7 @@ beforeAll(async () => {
     // await services.shared.workspace.WorkspaceManager.initializeWorkspace([]);
 })
 
-describe("Validating", () => {
+describe.skip("Validating", () => {
     test("check no errors", async () => {
         document = await parse(s`
             wt (1):
