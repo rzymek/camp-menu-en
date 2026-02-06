@@ -12,7 +12,7 @@ export function App() {
         <Tab name="Plan">
             <PlanEditor onChange={setPlan}/>
         </Tab>
-        <Tab name="Zakupy">
+        <Tab name="Shopping">
             <ShoppingList plan={plan}/>
         </Tab>
         {plan.map(day => <Tab key={day.day} name={day.day}>

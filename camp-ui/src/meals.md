@@ -1,560 +1,560 @@
-# owsianka
-* płatki owsiane: 75 g
+# oatmeal
+* oat flakes: 75 g
 * chia: 8 g
-* mleko: 0.25 L
-* ananas puszka: 60 g
-* konfitura jagodowa: 60 g
+* milk: 0.25 L
+* canned pineapple: 60 g
+* blueberry jam: 60 g
 
-# owoce morza w sosie pomidorowym
-* pomidory krojone puszka: 200g
-* kapary: 10g
-* cebula: 50g
-* owoce morza: 250g
-* czosnek granulowany: 5g
-* białe wino: 50 ml
-* olej rzepakowy: 4 ml
-* natka pietruszki: 0.2 szt
-* bagietka: 4 kromki
-* sól: 2g
-* pieprz: 1g
+# seafood in tomato sauce
+* canned chopped tomatoes: 200g
+* capers: 10g
+* onion: 50g
+* seafood: 250g
+* granulated garlic: 5g
+* white wine: 50 ml
+* rapeseed oil: 4 ml
+* parsley: 0.2 pcs
+* baguette: 4 slices
+* salt: 2g
+* pepper: 1g
 
 
-# udon kalafiorowy
+# cauliflower udon
 * udon: 200 g
-* kalafior: 160 g
-* mleczko kokosowe: 70 ml
-* pierś kurczaka: 100g
-* cebula: 50g
-* natka pietruszki: 0.1 szt
-* olej rzepakowy: 5 ml
-* curry/kurkuma: 2g
-* sól: 2g
-* pieprz: 1g
-* papryka (przyprawa): 0.1 opakowanie
-* czosnek granulowany: 2 g
+* cauliflower: 160 g
+* coconut milk: 70 ml
+* chicken breast: 100g
+* onion: 50g
+* parsley: 0.1 pcs
+* rapeseed oil: 5 ml
+* curry/turmeric: 2g
+* salt: 2g
+* pepper: 1g
+* paprika (spice): 0.1 package
+* granulated garlic: 2 g
 
-# żeberka
-* żeberka surowe: 300 g
-* ziemniaki: 0.15 kg
-* cebula: 60 g
-* rodzynki: 5 g
-* olej rzepakowy: 5 ml
-* musztarda: 60 g
-* miód: 60 g
-* sól: 5 g
-* pieprz: 5 g
-+ kociołek,łyżka,druciak
+# ribs
+* raw ribs: 300 g
+* potatoes: 0.15 kg
+* onion: 60 g
+* raisins: 5 g
+* rapeseed oil: 5 ml
+* mustard: 60 g
+* honey: 60 g
+* salt: 5 g
+* pepper: 5 g
++ cauldron, spoon, steel wool
 
-# skrzydełka
-* skrzydełka kurczaka: 6 szt
-* ostra pasta paprykowa: 15 g
-* olej rzepakowy: 10 ml
-* koncentrat pomidorowy: 5 g
-* chilli: 0.1 opakowanie
-* papryka (przyprawa): 0.1 opakowanie
+# wings
+* chicken wings: 6 pcs
+* hot pepper paste: 15 g
+* rapeseed oil: 10 ml
+* tomato paste: 5 g
+* chili: 0.1 package
+* paprika (spice): 0.1 package
 
-# zielone curry
-* pierś kurczaka: 150 g
-* cebula: 50 g
-* czosnek granulowany: 8 g
-* imbir: 2 cm
-* olej rzepakowy: 50 ml
-* marchew: 0.05 kg
-* czerwona papryka: 100 g
-* zielona pasta curry: 35 g
-* mleczko kokosowe: 250 ml
-* ryż jaśminowy: 150 g
-* sól: 10 g
-* pieprz: 5 g
-* curry/kurkuma: 5 g
-+ kociołek,łyżka,druciak
-+ obieraczka do warzyw
+# green curry
+* chicken breast: 150 g
+* onion: 50 g
+* granulated garlic: 8 g
+* ginger: 2 cm
+* rapeseed oil: 50 ml
+* carrot: 0.05 kg
+* red pepper: 100 g
+* green curry paste: 35 g
+* coconut milk: 250 ml
+* jasmine rice: 150 g
+* salt: 10 g
+* pepper: 5 g
+* curry/turmeric: 5 g
++ cauldron, spoon, steel wool
++ vegetable peeler
 
 # cassoulet
-* fasola: 150 g
-* kiełbasa ~15cm: 1 szt
-* karkówka: 100 g
-* boczek: 50 g
-* udka kurczaka: 1 szt
-* czosnek granulowany: 4 g
-* goździki: 0.01 g
-* zioła prowansalskie: 0.2 opakowanie
-* sól: 10 g
-* pomidory krojone puszka / przecier pomidorowy: 100 g
-* koncentrat pomidorowy: 10 g
-* olej rzepakowy: 50 ml
-* marchew: 0.1 kg
-* cebula: 50 g
-+ kociołek,łyżka,druciak
-+ obieraczka do warzyw
+* beans: 150 g
+* sausage ~15cm: 1 pc
+* pork neck: 100 g
+* bacon: 50 g
+* chicken thighs: 1 pc
+* granulated garlic: 4 g
+* cloves: 0.01 g
+* herbs de Provence: 0.2 package
+* salt: 10 g
+* canned chopped tomatoes / tomato puree: 100 g
+* tomato paste: 10 g
+* rapeseed oil: 50 ml
+* carrot: 0.1 kg
+* onion: 50 g
++ cauldron, spoon, steel wool
++ vegetable peeler
 
-# makaron z kurczakiem w śmietanowym sosie pieczarkowym
-* smietana UHT 18%: 60 g
-* pierś kurczaka: 150 g
-* makaron tagliatelle: 125 g
-* cebula: 40 g
-* pieczarki: 120 g
-* natka pietruszki: 0.2 szt
-* sól: 10 g
-+ kociołek,łyżka,druciak
+# pasta with chicken in creamy mushroom sauce
+* UHT cream 18%: 60 g
+* chicken breast: 150 g
+* tagliatelle pasta: 125 g
+* onion: 40 g
+* mushrooms: 120 g
+* parsley: 0.2 pcs
+* salt: 10 g
++ cauldron, spoon, steel wool
 
-# hamburgery
-* bułka kajzerka: 2.3 szt
-* mięso mielone wołowe: 200 g
-* ketchup ostry: 30 g
-* majonez jalapenos: 30 g
-* ogórki konserwowe: 30 g
+# hamburgers
+* kaiser roll: 2.3 pcs
+* minced beef: 200 g
+* hot ketchup: 30 g
+* jalapeno mayonnaise: 30 g
+* pickled cucumbers: 30 g
 * jalapenos: 30 g
-* pomidory: 0.5 szt
+* tomatoes: 0.5 pcs
 
-# hamburgery wege
-* bułka kajzerka: 2.3 szt
-* burger wege: 2 szt
-* ketchup ostry: 30 g
-* majonez jalapenos: 30 g
-* ogórki konserwowe: 30 g
+# veggie hamburgers
+* kaiser roll: 2.3 pcs
+* veggie burger: 2 pcs
+* hot ketchup: 30 g
+* jalapeno mayonnaise: 30 g
+* pickled cucumbers: 30 g
 * jalapenos: 30 g
-* pomidory: 0.5 szt
+* tomatoes: 0.5 pcs
 
 # curry wurst
-* podłużne bułki do currywurst: 2 szt
-* kiełbasa ~15cm: 2 szt
-* cebulka prażona: 40 g
-* curry/kurkuma: 5 g
-* ketchup ostry: 50 g
+* long buns for currywurst: 2 pcs
+* sausage ~15cm: 2 pcs
+* fried onion: 40 g
+* curry/turmeric: 5 g
+* hot ketchup: 50 g
 * jalapenos: 30 g
 
-# curry wurst wege
-* podłużne bułki do currywurst: 2 szt
-* kiełbasa wege ~15cm: 2 szt
-* cebulka prażona: 40 g
-* curry/kurkuma: 5 g
-* ketchup ostry: 50 g
+# veggie curry wurst
+* long buns for currywurst: 2 pcs
+* veggie sausage ~15cm: 2 pcs
+* fried onion: 40 g
+* curry/turmeric: 5 g
+* hot ketchup: 50 g
 * jalapenos: 30 g
 
-# kiełbasa z cebulą
-* kiełbasa ~15cm: 2 szt
-* cebula: 150 g
-* ketchup ostry: 50 g
-* musztarda: 30 g
-* pomidory: 1 szt
-* chleb: 2 kromki
+# sausage with onion
+* sausage ~15cm: 2 pcs
+* onion: 150 g
+* hot ketchup: 50 g
+* mustard: 30 g
+* tomatoes: 1 pc
+* bread: 2 slices
 
-# prażonka
-* kiełbasa ~15cm: 0.5 szt
-* czosnek granulowany: 5 g
-* zioła prowansalskie: 0.2 opakowanie
-* olej rzepakowy: 10 ml
-* marchew: 0.15 kg
-* ziemniaki: 0.3 kg
-* kapusty (główka): 200 g
-* cebula: 150 g
-* sól: 20 g
-+ kociołek,łyżka,druciak
-+ obieraczka do warzyw
+# prazonka
+* sausage ~15cm: 0.5 pcs
+* granulated garlic: 5 g
+* herbs de Provence: 0.2 package
+* rapeseed oil: 10 ml
+* carrot: 0.15 kg
+* potatoes: 0.3 kg
+* cabbage (head): 200 g
+* onion: 150 g
+* salt: 20 g
++ cauldron, spoon, steel wool
++ vegetable peeler
 
-# leczo
-* kiełbasa ~15cm: 1.5 szt
-* cukinia: 100 g
-* cebula: 50 g
-* papryka: 100 g
-* pomidory krojone puszka: 110 g
-* papryka (przyprawa): 0.1 opakowanie
-* czosnek granulowany: 5 g
-* zioła prowansalskie: 0.2 opakowanie
-* olej rzepakowy: 50 ml
-* sól: 20 g
-+ kociołek,łyżka,druciak
-+ obieraczka do warzyw
+# lecso
+* sausage ~15cm: 1.5 pcs
+* zucchini: 100 g
+* onion: 50 g
+* pepper: 100 g
+* canned chopped tomatoes: 110 g
+* paprika (spice): 0.1 package
+* granulated garlic: 5 g
+* herbs de Provence: 0.2 package
+* rapeseed oil: 50 ml
+* salt: 20 g
++ cauldron, spoon, steel wool
++ vegetable peeler
 
 # quesadilla
-* tortilla: 2 szt
-* ser żółty (krojony): 60 g
+* tortilla: 2 pcs
+* yellow cheese (sliced): 60 g
 * jalapenos: 50 g
-* sucha krakowka: 60 g
-+ płyta żeliwna, szpachla
+* dry krakowska sausage: 60 g
++ cast iron plate, spatula
 
-# quesadilla wege
-* tortilla: 2 szt
-* ser żółty (krojony): 60 g
+# veggie quesadilla
+* tortilla: 2 pcs
+* yellow cheese (sliced): 60 g
 * jalapenos: 50 g
-+ płyta żeliwna, szpachla
++ cast iron plate, spatula
 
-# gulasz z kaszą
-* chleb: 3 kromki
-* mięso na gulasz: 150 g
-* czosnek granulowany: 4 g
-* zioła prowansalskie: 0.2 opakowanie
-* ziarna jałowca: 0.2 opakowanie
-* sól: 10 g
-* pomidory krojone puszka / przecier pomidorowy: 100 g
-* olej rzepakowy: 50 ml
-* kasza gryczana: 100 g
-* marchew: 0.15 kg
-* cebula: 100 g
-* czerwona papryka: 0.1 g
-+ kociołek,łyżka,druciak
-+ obieraczka do warzyw
+# goulash with groats
+* bread: 3 slices
+* meat for goulash: 150 g
+* granulated garlic: 4 g
+* herbs de Provence: 0.2 package
+* juniper berries: 0.2 package
+* salt: 10 g
+* canned chopped tomatoes / tomato puree: 100 g
+* rapeseed oil: 50 ml
+* buckwheat groats: 100 g
+* carrot: 0.15 kg
+* onion: 100 g
+* red pepper: 0.1 g
++ cauldron, spoon, steel wool
++ vegetable peeler
 
-# grochówka
-* chleb: 3 kromki
-* żeberka wędzone: 150 g
-* majeranek: 0.2 opakowanie
-* sól: 10 g
-* suchego grochu łuskanego (połówki): 60 g
-* marchew: 0.04 kg
-* ziemniaki: 0.12 kg
-* cebula: 50 g
-+ kociołek,łyżka,druciak
-+ obieraczka do warzyw
+# pea soup
+* bread: 3 slices
+* smoked ribs: 150 g
+* marjoram: 0.2 package
+* salt: 10 g
+* dry shelled peas (halves): 60 g
+* carrot: 0.04 kg
+* potatoes: 0.12 kg
+* onion: 50 g
++ cauldron, spoon, steel wool
++ vegetable peeler
 
-# płatki z mlekiem
+# cereal with milk
 * chocopuffs: 40 g
 * cini minis: 40 g
-* mleko: 0.3 L
+* milk: 0.3 L
 
 # grog
-* goździki: 0.01 g
-* rum do grogu: 0.125 L
-* cukier: 4 g
-* cytryna: 100 g
-+ wyciskarka do cytryn
-+ termos
+* cloves: 0.01 g
+* rum for grog: 0.125 L
+* sugar: 4 g
+* lemon: 100 g
++ lemon squeezer
++ thermos
 
 # spaghetti
-* mięso mielone wołowe: 100 g
-* czosnek granulowany: 4 g
-* zioła prowansalskie: 0.2 opakowanie
-* sól: 10 g
-* cebula: 100 g
-* pomidory krojone puszka / przecier pomidorowy: 150 g
-* makaron spagetti: 100 g
-+ kociołek,łyżka,druciak
+* minced beef: 100 g
+* granulated garlic: 4 g
+* herbs de Provence: 0.2 package
+* salt: 10 g
+* onion: 100 g
+* canned chopped tomatoes / tomato puree: 150 g
+* spaghetti pasta: 100 g
++ cauldron, spoon, steel wool
 
-# spaghetti z kiełbasą
-* kiełbasa: 100 g
-* czosnek granulowany: 4 g
-* zioła prowansalskie: 0.2 opakowanie
-* sól: 10 g
-* cebula: 100 g
-* pomidory krojone puszka / przecier pomidorowy: 150 g
-* makaron spagetti: 100 g
-+ kociołek,łyżka,druciak
+# spaghetti with sausage
+* sausage: 100 g
+* granulated garlic: 4 g
+* herbs de Provence: 0.2 package
+* salt: 10 g
+* onion: 100 g
+* canned chopped tomatoes / tomato puree: 150 g
+* spaghetti pasta: 100 g
++ cauldron, spoon, steel wool
 
-# tosty
-* chleb: 6 kromki
-* ser żółty (krojony): 75 g
-* sucha krakowka: 5 g
+# toasts
+* bread: 6 slices
+* yellow cheese (sliced): 75 g
+* dry krakowska sausage: 5 g
 * jalapenos: 40 g
-* ketchup ostry: 60 g
-* ogórki konserwowe: 30 g
-* cebula: 30 g
-+ płyta żeliwna, szpachla
+* hot ketchup: 60 g
+* pickled cucumbers: 30 g
+* onion: 30 g
++ cast iron plate, spatula
 
-# tosty wege
-* chleb: 6 kromki
-* ser żółty (krojony): 75 g
+# veggie toasts
+* bread: 6 slices
+* yellow cheese (sliced): 75 g
 * jalapenos: 40 g
-* ketchup ostry: 60 g
-* ogórki konserwowe: 30 g
-* cebula: 30 g
-+ płyta żeliwna, szpachla
+* hot ketchup: 60 g
+* pickled cucumbers: 30 g
+* onion: 30 g
++ cast iron plate, spatula
 
-# kwaśnica
-* żeberka surowe: 175 g
-* wędzony boczek: 75 g
-* żeberka wędzone: 150 g
-* majeranek: 0.2 opakowanie
-* kapusta kiszona: 100 g
-* ziemniaki: 0.2 kg
-* czosnek granulowany: 4 g
-+ kociołek,łyżka,druciak
-+ obieraczka do warzyw
+# kwasnica
+* raw ribs: 175 g
+* smoked bacon: 75 g
+* smoked ribs: 150 g
+* marjoram: 0.2 package
+* sauerkraut: 100 g
+* potatoes: 0.2 kg
+* granulated garlic: 4 g
++ cauldron, spoon, steel wool
++ vegetable peeler
 
 # bigos
-* kiełbasa ~15cm: 1 szt
-* karkówka: 125 g
-* majeranek: 0.2 opakowanie
-* ziarna jałowca: 0.2 opakowanie
-* kapusta kiszona: 150 g
-* kapusty (główka): 100 g
-* pomidory krojone puszka / przecier pomidorowy: 50 g
-* cebula: 50 g
-* suszone śliwki: 7 g
-+ kociołek,łyżka,druciak
+* sausage ~15cm: 1 pc
+* pork neck: 125 g
+* marjoram: 0.2 package
+* juniper berries: 0.2 package
+* sauerkraut: 150 g
+* cabbage (head): 100 g
+* canned chopped tomatoes / tomato puree: 50 g
+* onion: 50 g
+* dried plums: 7 g
++ cauldron, spoon, steel wool
 
-# polędwiczki z grilla
-* chleb: 4 kromki
-* polędwiczki wieprzowe: 350 g
-* żurawina: 80 g
-+ płyta żeliwna, szpachla
+# grilled pork tenderloin
+* bread: 4 slices
+* pork tenderloin: 350 g
+* cranberry: 80 g
++ cast iron plate, spatula
 
-# jajko sadzone
-* chleb: 2 kromki
-* jajka: 2 szt
-* sól: 10 g
-+ płyta żeliwna, szpachla
+# fried egg
+* bread: 2 slices
+* eggs: 2 pcs
+* salt: 10 g
++ cast iron plate, spatula
 
-# pankejki
-* jajka: 1 szt
-* proszek do pieczenia: 4 g
-* mąka: 100 g
-* mleko: 0.1 L
-* cukier: 10 g
-* olej rzepakowy: 35 ml
-+ płyta żeliwna, szpachla
+# pancakes
+* eggs: 1 pc
+* baking powder: 4 g
+* flour: 100 g
+* milk: 0.1 L
+* sugar: 10 g
+* rapeseed oil: 35 ml
++ cast iron plate, spatula
 
-# żurek
-* zakwasu żytniego do żurku: 125 ml
-* majeranek: 0.2 opakowanie
-* sól: 10 g
-* pieprz: 10 g
-* ziemniaki: 0.1 kg
-* kiełbasa ~15cm: 1 szt
-* wędzony boczek: 50 g
-* smietana UHT 18%: 25 g
-* ziemniaki: 0.2 kg
-* chrzan: 15 g
-* jajka: 2 szt
-+ kociołek,łyżka,druciak
+# zurek
+* rye sourdough for zurek: 125 ml
+* marjoram: 0.2 package
+* salt: 10 g
+* pepper: 10 g
+* potatoes: 0.1 kg
+* sausage ~15cm: 1 pc
+* smoked bacon: 50 g
+* UHT cream 18%: 25 g
+* potatoes: 0.2 kg
+* horseradish: 15 g
+* eggs: 2 pcs
++ cauldron, spoon, steel wool
 
-# zupa rybna
-* ryba (wędzona/surowa): 200 g
-* marchew: 0.05 kg
-* por: 0.04 g
-* papryka: 30 g
-* seler naciowy: 0.03 kg
-* ziemniaki: 0.1 kg
-* cebula: 30 g
-* pomidory krojone puszka: 100 g
-* czosnek granulowany: 2 g
-* pieprz: 2 g
-* sól: 5 g
-* chilli: 0.05 opakowanie
-+ kociołek,łyżka,druciak
+# fish soup
+* fish (smoked/raw): 200 g
+* carrot: 0.05 kg
+* leek: 0.04 g
+* pepper: 30 g
+* celery stalk: 0.03 kg
+* potatoes: 0.1 kg
+* onion: 30 g
+* canned chopped tomatoes: 100 g
+* granulated garlic: 2 g
+* pepper: 2 g
+* salt: 5 g
+* chili: 0.05 package
++ cauldron, spoon, steel wool
 
 # chili con carne
-* tortilla: 2 szt
-* mięso mielone wołowe: 125 g
-* czosnek granulowany: 4 g
-* chilli: 0.1 opakowanie
-* oregano: 0.2 opakowanie
-* kmin rzymski: 0.2 opakowanie
-* sól: 10 g
-* kukurydza puszka: 50 g
-* fasola: 50 g
-* pomidory krojone puszka / przecier pomidorowy: 200 g
-* olej rzepakowy: 35 ml
+* tortilla: 2 pcs
+* minced beef: 125 g
+* granulated garlic: 4 g
+* chili: 0.1 package
+* oregano: 0.2 package
+* cumin: 0.2 package
+* salt: 10 g
+* canned corn: 50 g
+* beans: 50 g
+* canned chopped tomatoes / tomato puree: 200 g
+* rapeseed oil: 35 ml
 * jalapenos: 50 g
-* czerwona papryka: 100 g
-* cebula: 120 g
-* czekolada gorzka: 0.1 tabliczki
-+ kociołek,łyżka,druciak
+* red pepper: 100 g
+* onion: 120 g
+* dark chocolate: 0.1 bar
++ cauldron, spoon, steel wool
 
 # chili sin carne
-* tortilla: 2 szt
-* czosnek granulowany: 4 g
-* chilli: 0.1 opakowanie
-* oregano: 0.2 opakowanie
-* kmin rzymski: 0.2 opakowanie
-* sól: 10 g
-* kukurydza puszka: 50 g
-* fasola: 150 g
-* pomidory krojone puszka / przecier pomidorowy: 100 g
-* olej rzepakowy: 35 ml
+* tortilla: 2 pcs
+* granulated garlic: 4 g
+* chili: 0.1 package
+* oregano: 0.2 package
+* cumin: 0.2 package
+* salt: 10 g
+* canned corn: 50 g
+* beans: 150 g
+* canned chopped tomatoes / tomato puree: 100 g
+* rapeseed oil: 35 ml
 * jalapenos: 50 g
-* czerwona papryka: 100 g
-* cebula: 120 g
-* czekolada gorzka: 0.1 tabliczki
-+ kociołek,łyżka,druciak
+* red pepper: 100 g
+* onion: 120 g
+* dark chocolate: 0.1 bar
++ cauldron, spoon, steel wool
 
-# fasolka po bretońsku
-* pomidory krojone puszka / przecier pomidorowy: 250 g
-* czerwona fasola puszka: 120 g
-* kiełbasa ~15cm: 1 szt
-* wędzony boczek: 50 g
-* cebula: 25 g
-* czosnek granulowany: 2 g
-* majeranek: 0.2 opakowanie
-* zioła prowansalskie: 0.2 opakowanie
+# beans a la breton
+* canned chopped tomatoes / tomato puree: 250 g
+* canned red beans: 120 g
+* sausage ~15cm: 1 pc
+* smoked bacon: 50 g
+* onion: 25 g
+* granulated garlic: 2 g
+* marjoram: 0.2 package
+* herbs de Provence: 0.2 package
 
-# przekąski
-* kabanosy chili: 0.25 opakowania
-* czekolada gorzka: 0.25 tabliczki
-* woda: 2 L
-* kawa: 12 g
-* mięta: 1 torebka
-* herbata: 1 torebka
+# snacks
+* chili kabanos: 0.25 package
+* dark chocolate: 0.25 bar
+* water: 2 L
+* coffee: 12 g
+* mint: 1 bag
+* tea: 1 bag
 
-# akcesoria
-* papier toaletowy: 0.25 rolka
-* reni: 2 tabletki
-* mokre chustki: 10 listków
-* płyn do mycia naczyń: 10 ml
-* worki na śmieci 60L: 1 szt
-* helsi / Porost Islandzki / isla: 2 tabletki
-* apap/ibuprom: 2 tabletki
-+ druciak
-+ gąbka do zmywania
-+ szmaty
+# accessories
+* toilet paper: 0.25 roll
+* reni: 2 tablets
+* wet wipes: 10 sheets
+* dish soap: 10 ml
+* garbage bags 60L: 1 pc
+* helsi / Icelandic moss / isla: 2 tablets
+* apap/ibuprom: 2 tablets
++ steel wool
++ dish sponge
++ rags
 
-# jajecznica z pomidorami
-* jajka: 4 szt
-* chleb: 1 kromki
-* pomidory: 0.5 szt
-* wędzony boczek: 15 g
-* cebula: 50 g
-* sól: 4 g
+# scrambled eggs with tomatoes
+* eggs: 4 pcs
+* bread: 1 slice
+* tomatoes: 0.5 pcs
+* smoked bacon: 15 g
+* onion: 50 g
+* salt: 4 g
 
-# jajecznica z boczniakam8
-* jajka: 4 szt
-* chleb: 1 kromki
-* boczniaki: 100 g
-* wędzony boczek: 15 g
-* cebula: 50 g
-* sól: 4 g
+# scrambled eggs with oyster mushrooms
+* eggs: 4 pcs
+* bread: 1 slice
+* oyster mushrooms: 100 g
+* smoked bacon: 15 g
+* onion: 50 g
+* salt: 4 g
 
-# szakszuka
-* jajka: 2 szt
-* pomidory krojone puszka: 200 g
-* czerwona papryka: 150 g
-* cebula: 80 g
-* czosnek granulowany: 8 g
-* sól: 4 g
-* papryka (przyprawa): 0.1 opakowanie
-* kmin rzymski: 0.1 opakowanie
-* natka pietruszki: 0.2 szt
+# shakshuka
+* eggs: 2 pcs
+* canned chopped tomatoes: 200 g
+* red pepper: 150 g
+* onion: 80 g
+* granulated garlic: 8 g
+* salt: 4 g
+* paprika (spice): 0.1 package
+* cumin: 0.1 package
+* parsley: 0.2 pcs
 
-# frytki
-* ziemniaki: 0.2 kg
-* sól: 2 g
-* olej rzepakowy: 200 ml
-+ Metalowe sitko
-+ Durszlak
+# fries
+* potatoes: 0.2 kg
+* salt: 2 g
+* rapeseed oil: 200 ml
++ metal sieve
++ colander
 
-przetwory:
-* ketchup ostry
-* musztarda
-* majonez jalapenos
+preserves:
+* hot ketchup
+* mustard
+* jalapeno mayonnaise
 * jalapenos
-* ogórki konserwowe
-* koncentrat pomidorowy
-* cebulka prażona
-* olej rzepakowy
-* makaron tagliatelle
+* pickled cucumbers
+* tomato paste
+* fried onion
+* rapeseed oil
+* tagliatelle pasta
 * udon
-* kasza gryczana
-* makaron spagetti
+* buckwheat groats
+* spaghetti pasta
 * chocopuffs
 * cini minis
-* pomidory krojone puszka / przecier pomidorowy
-* pomidory krojone puszka
-* rum do grogu
-* czekolada gorzka
-* czerwona fasola puszka
-* kukurydza puszka
-* suszone śliwki
-* zakwasu żytniego do żurku
-* żurawina
-* mąka
-* chrzan
-* kawa
-* herbata
-* mięta
-* fasola
-* rodzynki
-* miód
-* konfitura jagodowa
+* canned chopped tomatoes / tomato puree
+* canned chopped tomatoes
+* rum for grog
+* dark chocolate
+* canned red beans
+* canned corn
+* dried plums
+* rye sourdough for zurek
+* cranberry
+* flour
+* horseradish
+* coffee
+* tea
+* mint
+* beans
+* raisins
+* honey
+* blueberry jam
 * chia
-* ananas puszka
-* płatki owsiane
-* ostra pasta paprykowa
-* mleczko kokosowe
-* ryż jaśminowy
-* kapary
+* canned pineapple
+* oat flakes
+* hot pepper paste
+* coconut milk
+* jasmine rice
+* capers
 
-chemia:
-* mokre chustki
-* papier toaletowy
-* płyn do mycia naczyń
-* worki na śmieci 60L
+chemicals:
+* wet wipes
+* toilet paper
+* dish soap
+* garbage bags 60L
 
-przyprawy:
-* papryka (przyprawa)
-* curry/kurkuma
-* czosnek granulowany
-* zioła prowansalskie
-* sól
-* cukier
-* goździki
-* majeranek
-* ziarna jałowca
-* chilli
+spices:
+* paprika (spice)
+* curry/turmeric
+* granulated garlic
+* herbs de Provence
+* salt
+* sugar
+* cloves
+* marjoram
+* juniper berries
+* chili
 * oregano
-* pieprz
-* proszek do pieczenia
-* kmin rzymski
-* imbir
-* zielona pasta curry
+* pepper
+* baking powder
+* cumin
+* ginger
+* green curry paste
 
-napoje:
-* białe wino
-* woda
+drinks:
+* white wine
+* water
 
-nabiał:
-* smietana UHT 18%
-* ser żółty (krojony)
-* mleko
-* jajka
+dairy:
+* UHT cream 18%
+* yellow cheese (sliced)
+* milk
+* eggs
 
-mięso:
-* mięso mielone wołowe
-* pierś kurczaka
-* kiełbasa ~15cm
-* sucha krakowka
-* żeberka wędzone
-* mięso na gulasz
-* kabanosy chili
-* karkówka
-* wędzony boczek
-* polędwiczki wieprzowe
-* żeberka surowe
-* kiełbasa
-* kiełbasa wege ~15cm
-* burger wege
-* skrzydełka kurczaka
-* boczek
-* udka kurczaka
-* owoce morza
-* ryba (wędzona/surowa)
+meat:
+* minced beef
+* chicken breast
+* sausage ~15cm
+* dry krakowska sausage
+* smoked ribs
+* meat for goulash
+* chili kabanos
+* pork neck
+* smoked bacon
+* pork tenderloin
+* raw ribs
+* sausage
+* veggie sausage ~15cm
+* veggie burger
+* chicken wings
+* bacon
+* chicken thighs
+* seafood
+* fish (smoked/raw)
 
-warzywa:
-* cytryna
-* marchew
-* ziemniaki
-* kapusty (główka)
-* cebula
-* pieczarki
-* boczniaki
-* natka pietruszki
-* pomidory
-* czerwona papryka
-* suchego grochu łuskanego (połówki)
-* kapusta kiszona
-* kalafior
-* cukinia
-* papryka
-* por
-* seler naciowy
+vegetables:
+* lemon
+* carrot
+* potatoes
+* cabbage (head)
+* onion
+* mushrooms
+* oyster mushrooms
+* parsley
+* tomatoes
+* red pepper
+* dry shelled peas (halves)
+* sauerkraut
+* cauliflower
+* zucchini
+* pepper
+* leek
+* celery stalk
 
-pieczywo:
-* bułka kajzerka
-* podłużne bułki do currywurst
-* chleb
+bread:
+* kaiser roll
+* long buns for currywurst
+* bread
 * tortilla
-* bagietka
+* baguette
 
-leki:
+medicines:
 * apap/ibuprom
-* helsi / Porost Islandzki / isla
+* helsi / Icelandic moss / isla
 * reni

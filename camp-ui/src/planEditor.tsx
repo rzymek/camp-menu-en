@@ -11,25 +11,25 @@ const external = {
 } as const
 
 const demoSrc = `
-czwartek (4):
+Thursday (4):
     -
     -
     quesadilla
-piątek (4):
-    jajecznica z pomidorami
-    tosty
-    hamburgery (5), hamburgery wege (1)
-sobota:
-    szakszuka (6)
-    curry wurst (5), curry wurst wege (1)
-    chili con carne (5), hamburgery wege (1)
-niedziela (6):
-    jajecznica z pomidorami
-    tosty (5), tosty wege (1)
-    prażonka (6)
-poniedziałek:
-    jajecznica z pomidorami (6)
-    quesadilla (5), quesadilla wege (1)
+Friday (4):
+    scrambled eggs with tomatoes
+    toasts
+    hamburgers (5), veggie burgers (1)
+Saturday:
+    shakshuka (6)
+    curry wurst (5), veggie curry wurst (1)
+    chili con carne (5), veggie burgers (1)
+Sunday (6):
+    scrambled eggs with tomatoes
+    toasts (5), veggie toasts (1)
+    prazonka (6)
+Monday:
+    scrambled eggs with tomatoes (6)
+    quesadilla (5), veggie quesadilla (1)
 `.trim()
 
 const initial = pipe(
@@ -65,9 +65,9 @@ export function PlanEditor(props: { onChange: (plan: Plan[]) => void }) {
                 localStorage.clear()
                 setSrc("")
             }}>Reset</DangerousButton>
-            <a href="meals.html" style={{margin: 8}}>Przepisy</a>
+            <a href="meals.html" style={{margin: 8}}>Recipes</a>
             <a href="https://github.com/rzymek/camp-menu/blob/main/camp-ui/src/meals.md" target="_blank"
-               style={{margin: 8}}>Źródło</a>
+               style={{margin: 8}}>Source</a>
         </div>
     </div>
 
