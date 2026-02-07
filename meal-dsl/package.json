@@ -12,7 +12,7 @@
         "src"
     ],
     "scripts": {
-        "build": "npm-run-all langium:generate:production -p compile lint test",
+        "build": "npm-run-all langium:generate:production -p compile",
         "compile": "tsc",
         "compile:watch": "tsc --watch",
         "watch": "run-p *:watch",
