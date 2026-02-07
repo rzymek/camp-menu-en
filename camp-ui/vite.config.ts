@@ -6,7 +6,7 @@ import { resolve } from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    base: "/camp-menu/",
+    base: "/camp-menu-en/",
     test: {
         environment: "jsdom",
         setupFiles: ["vite.setup.ts"],
@@ -38,9 +38,9 @@ export default defineConfig({
                 maximumFileSizeToCacheInBytes: 1024 * 1024 * 1024,
             },
             manifest: {
-                name: "camp-menu",
-                short_name: "camp-menu",
-                description: "camp-menu",
+                name: "camp-menu-en",
+                short_name: "camp-menu-en",
+                description: "camp-menu-en",
                 theme_color: "#FFFFE0",
                 icons: [{
                     src: "pwa-64x64.png",
